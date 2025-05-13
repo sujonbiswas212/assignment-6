@@ -375,3 +375,16 @@ footer{
      padding: 10px 50px;
 }
 
+
+@media (max-width:768px){
+  
+footer{
+  margin-top: 344%;
+  text-align: center;
+
+  & img{
+    margin-left: 20%;
+  }
+}
+
+}
